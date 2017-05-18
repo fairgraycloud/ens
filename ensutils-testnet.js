@@ -1,4 +1,4 @@
-function namehash(name) {
+function namehash(name) {new Date(testRegistrar.expiryTimes(web3.sha3('airgrayclouf')).toNumber() * 1000)
     var node = '0x0000000000000000000000000000000000000000000000000000000000000000';
     if (name !== '') {
         var labels = name.split(".");
